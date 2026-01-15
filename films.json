@@ -1,0 +1,502 @@
+[
+    {
+    "title": "Stranger Things",
+    "type": "series",
+    "genre": ["Sci-Fi", "Horror"],
+    "rating": 8.6,
+    "animated": false,
+    "length": "1h",
+    "award_winner": true,
+    "release_date": 2016
+    },
+    {
+    "title": "Inception",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 8.8,
+    "animated": false,
+    "length": "2h 28m",
+    "award_winner": true,
+    "release_date": 2010
+    },
+    {
+    "title": "Toy Story",
+    "type": "movie",
+    "genre": ["Comedy", "Fantasy"],
+    "rating": 8.3,
+    "animated": true,
+    "length": "1h 21m",
+    "award_winner": true,
+    "release_date": 1995
+    },
+    {
+    "title": "The Dark Knight",
+    "type": "movie",
+    "genre": ["Action", "Drama"],
+    "rating": 9.1,
+    "animated": false,
+    "length": "2h 32m",
+    "award_winner": true,
+    "release_date": 2008
+    },
+    {
+    "title": "Get Out",
+    "type": "movie",
+    "genre": ["Horror", "Drama"],
+    "rating": 7.8,
+    "animated": false,
+    "length": "1h 44m",
+    "award_winner": true,
+    "release_date": 2017
+    },
+    { 
+    "title": "Interstellar",
+    "type": "movie",
+    "genre": ["Sci-Fi", "Drama"],
+    "rating": 8.7,
+    "animated": false,
+    "length": "2h 40m",
+    "award_winner": false,
+    "release_date": 2014
+    },
+    {
+    "title": "The Lord of the Rings: The Return of the King",
+    "type": "movie",
+    "genre": ["Fantasy", "Action"],
+    "rating": 9.0,
+    "animated": false,
+    "length": "3h 21m",
+    "award_winner": true,
+    "release_date": 2003
+    },
+    {
+    "title": "Breaking Bad",
+    "type": "series",
+    "genre": ["Drama"],
+    "rating": 9.5,
+    "animated": false,
+    "length": "48m",
+    "award_winner": true,
+    "release_date": 2008
+    },
+    {
+    "title": "Avatar: The Last Airbender",
+    "type": "series",
+    "genre": ["Fantasy", "Action"],
+    "rating": 9.3,
+    "animated": true,
+    "length": "23m",
+    "award_winner": true,
+    "release_date": 2005
+    },
+    {
+    "title": "Gladiator",
+    "type": "movie",
+    "genre": ["Action", "Drama"],
+    "rating": 8.5,
+    "animated": false,
+    "length": "2h 35m",
+    "award_winner": true,
+    "release_date": 2000
+    },
+    {
+    "title": "Rush Hour",
+    "type": "movie",
+    "genre": ["Action", "Comedy"],
+    "rating": 7.1,
+    "animated": false,
+    "length": "1h 38m",
+    "award_winner": false,
+    "release_date": 1998
+    },
+    {
+    "title": "Uncharted",
+    "type": "movie",
+    "genre": ["Action"],
+    "rating": 6.3,
+    "animated": false,
+    "length": "1h 56m",
+    "award_winner": false,
+    "release_date": 2022
+    },
+    {
+    "title": "Inside Out",
+    "type": "movie",
+    "genre": ["Drama", "Comedy"],
+    "rating": 8.1,
+    "animated": true,
+    "length": "1h 35m",
+    "award_winner": true,
+    "release_date": 2015
+    },
+    {
+    "title": "Kungfu Panda",
+    "type": "movie",
+    "genre": ["Action", "Comedy"],
+    "rating": 7.6,
+    "animated": true,
+    "length": "1h 32m",
+    "award_winner": false,
+    "release_date": 2008
+    },
+    {
+    "title": "Young Sheldon",
+    "type": "series",
+    "genre": ["Comedy"],
+    "rating": 7.7,
+    "animated": false,
+    "length": "30m",
+    "award_winner": false,
+    "release_date": 2017
+    },
+    {
+    "title": "Friends",
+    "type": "series",
+    "genre": ["Comedy"],
+    "rating": 8.9,
+    "animated": false,
+    "length": "22m",
+    "award_winner": true,
+    "release_date": 1994
+    },
+    {
+    "title": "Modern Family",
+    "type": "series",
+    "genre": ["Comedy", "Drama"],
+    "rating": 8.5,
+    "animated": false,
+    "length": "22m",
+    "award_winner": true,
+    "release_date": 2009
+    },
+    {
+    "title": "Fresh Off the Boat",
+    "type": "series",
+    "genre": ["Comedy"],
+    "rating": 7.7,
+    "animated": false,
+    "length": "22m",
+    "award_winner": false,
+    "release_date": 2015
+    },
+    {
+    "title": "Minions",
+    "type": "movie",
+    "genre": ["Comedy"],
+    "rating": 6.4,
+    "animated": true,
+    "length": "1h 31m",
+    "award_winner": false,
+    "release_date": 2015
+    },
+    {
+    "title": "Zootopia",
+    "type": "movie",
+    "genre": ["Action", "Comedy"],
+    "rating": 8.0,
+    "animated": true,
+    "length": "1h 48m",
+    "award_winner": true,
+    "release_date": 2016
+    },
+    {
+    "title": "Shaolin Soccer",
+    "type": "movie",
+    "genre": ["Action", "Comedy", "Fantasy"],
+    "rating": 7.3,
+    "animated": false,
+    "length": "1h 27m",
+    "award_winner": false,
+    "release_date": 2001
+    },
+    {
+    "title": "Fast & Furious",
+    "type": "movie",
+    "genre": ["Action"],
+    "rating": 6.5,
+    "animated": false,
+    "length": "1h 47m",
+    "award_winner": false,
+    "release_date": 2009
+    },
+    {
+    "title": "The Avengers",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 8.0,
+    "animated": false,
+    "length": "2h 23m",
+    "award_winner": true,
+    "release_date": 2012
+    },
+    {
+    "title": "28 Days Later",
+    "type": "movie",
+    "genre": ["Sci-Fi", "Horror"],
+    "rating": 7.5,
+    "animated": false,
+    "length": "1h 53m",
+    "award_winner": false,
+    "release_date": 2002
+    },
+    {
+    "title": "Venom",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 6.6,
+    "animated": false,
+    "length": "1h 52m",
+    "award_winner": false,
+    "release_date": 2018
+    },
+    {
+    "title": "Spider-Man",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 7.4,
+    "animated": false,
+    "length": "2h 1m",
+    "award_winner": false,
+    "release_date": 2002
+    },
+    {
+    "title": "The Croods",
+    "type": "movie",
+    "genre": ["Fantasy", "Comedy"],
+    "rating": 7.1,
+    "animated": true,
+    "length": "1h 38m",
+    "award_winner": false,
+    "release_date": 2013
+    },
+    {
+    "title": "Slugterra",
+    "type": "series",
+    "genre": ["Comedy", "Fantasy", "Sci-Fi"],
+    "rating": 7.3,
+    "animated": true,
+    "length": "22m",
+    "award_winner": false,
+    "release_date": 2012
+    },
+    {
+    "title": "Black Panther",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 7.3,
+    "animated": false,
+    "length": "2h 14m",
+    "award_winner": true,
+    "release_date": 2018
+    },
+    {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 7.3,
+    "animated": false,
+    "length": "2h 12m",
+    "award_winner": false,
+    "release_date": 2021
+    },
+    {
+    "title": "Life of Pi",
+    "type": "movie",
+    "genre": ["Fantasy", "Drama"],
+    "rating": 7.9,
+    "animated": false,
+    "length": "2h 7m",
+    "award_winner": true,
+    "release_date": 2012
+    },
+    {
+    "title": "Iron Man",
+    "type": "movie",
+    "genre": ["Action", "Sci-Fi"],
+    "rating": 7.9,
+    "animated": false,
+    "length": "2h 6m",
+    "award_winner": false,
+    "release_date": 2008
+    },
+    {
+    "title": "Suits",
+    "type": "series",
+    "genre": ["Comedy", "Drama"],
+    "rating": 8.4,
+    "animated": false,
+    "length": "45m",
+    "award_winner": true,
+    "release_date": 2011
+    },
+    {
+    "title": "Fight Club",
+    "type": "movie",
+    "genre": ["Drama", "Comedy"],
+    "rating": 8.8,
+    "animated": false,
+    "length": "2h 19m",
+    "award_winner": false,
+    "release_date": 1999
+    },
+    {
+    "title": "WALL·E",
+    "type": "movie",
+    "genre": ["Drama", "Sci-Fi"],
+    "rating": 8.4,
+    "animated": true,
+    "length": "1h 38m",
+    "award_winner": true,
+    "release_date": 2008
+    },
+    {
+    "title": "Up",
+    "type": "movie",
+    "genre": ["Drama", "Comedy"],
+    "rating": 8.3,
+    "animated": true,
+    "length": "1h 36m",
+    "award_winner": true,
+    "release_date": 2009
+    },
+    {
+    "title": "The Karate Kid (1984)",
+    "type": "movie",
+    "genre": ["Drama", "Action"],
+    "rating": 7.3,
+    "animated": false,
+    "length": "2h 6m",
+    "award_winner": false,
+    "release_date": 1984
+    }, 
+    {
+    "title": "Brothers",
+    "type": "movie",
+    "genre": ["Drama"],
+    "rating": 7.1,
+    "animated": false,
+    "length": "1h 45m",
+    "award_winner": false,
+    "release_date": 2009
+    },
+    {
+    "title": "The Queen's Gambit",
+    "type": "series",
+    "genre": ["Drama"],
+    "rating": 8.5,
+    "animated": false,
+    "length": "1h",
+    "award_winner": true,
+    "release_date": 2020
+    },
+    {
+    "title": "Game of Thrones",
+    "type": "series",
+    "genre": ["Drama", "Action"],
+    "rating": 9.2,
+    "animated": false,
+    "length": "1h",
+    "award_winner": true,
+    "release_date": 2011
+    },
+    {
+    "title": "The Boys",
+    "type": "series",
+    "genre": ["Drama", "Action", "Comedy"],
+    "rating": 8.5,
+    "animated": false,
+    "length": "1h",
+    "award_winner": true,
+    "release_date": 2019
+    },
+    {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "type": "movie",
+    "genre": ["Fantasy"],
+    "rating": 7.7,
+    "animated": false,
+    "length": "2h 32m",
+    "award_winner": false,
+    "release_date": 2001
+    },
+    {
+    "title": "Aquaman",
+    "type": "movie",
+    "genre": ["Fantasy", "Action", "Sci-Fi"],
+    "rating": 6.8,
+    "animated": false,
+    "length": "2h 23m",
+    "award_winner": false,
+    "release_date": 2018
+    },
+    {
+    "title": "Everybody Hates Chris",
+    "type": "series",
+    "genre": ["Drama", "Comedy"],
+    "rating": 7.6,
+    "animated": false,
+    "length": "22m",
+    "award_winner": false,
+    "release_date": 2005
+    },
+    {
+    "title": "Moana",
+    "type": "movie",
+    "genre": ["Fantasy", "Comedy"],
+    "rating": 7.6,
+    "animated": true,
+    "length": "1h 47m",
+    "award_winner": false,
+    "release_date": 2016
+    },
+    {
+    "title": "Top Gun: Maverick",
+    "type": "movie",
+    "genre": ["Drama", "Action"],
+    "rating": 8.2,
+    "animated": false,
+    "length": "2h 10m",
+    "award_winner": true,
+    "release_date": 2022
+    },
+    {
+    "title": "Mission: Impossible",
+    "type": "movie",
+    "genre": ["Action"],
+    "rating": 7.2,
+    "animated": false,
+    "length": "1h 50m",
+    "award_winner": false,
+    "release_date": 1996
+    },
+    {
+    "title": "Back to the Future",
+    "type": "movie",
+    "genre": ["Comedy", "Sci-Fi"],
+    "rating": 8.5,
+    "animated": false,
+    "length": "1h 56m",
+    "award_winner": true,
+    "release_date": 1985
+    },
+    {
+    "title": "Captain America: The First Avenger",
+    "type": "movie",
+    "genre": ["Sci-Fi", "Action"],
+    "rating": 6.9,
+    "animated": false,
+    "length": "2h 4m",
+    "award_winner": false,
+    "release_date": 2011
+    },
+    {
+    "title": "Rise of the Planet of the Apes",
+    "type": "movie",
+    "genre": ["Drama", "Action", ""],
+    "rating": 7.6,
+    "animated": false,
+    "length": "1h 45m",
+    "award_winner": false,
+    "release_date": 2011
+    }
+]
